@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>OHT - BAKIM MERKEZİ- İTFAİYE - TRAFİK - TUZ DEPOSU.kmz</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<StyleMap id="msn_caution0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_caution0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_caution0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin000">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/gas_stations.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl00">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/gas_stations.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_phone">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/phone.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_phone">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_phone</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_phone</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station">
+		<IconStyle>
+			<color>fffc5656</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station">
+		<IconStyle>
+			<color>fffc5656</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_caution0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_caution0">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_phone">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/phone.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>OHT - BAKIM MERKEZİ- İTFAİYE - TRAFİK - TUZ DEPOSU</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>TEHLİKELİ ve KİMYASAL MADDE KONTROL</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>28.98615726459851</longitude>
+				<latitude>41.22415701838433</latitude>
+				<altitude>0</altitude>
+				<heading>-2.58818466047729</heading>
+				<tilt>55.6457863176929</tilt>
+				<range>1377.575355300276</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_caution0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>28.98615726459851,41.22415701838433,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OHT ALANI 1</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>28.83048055015639</longitude>
+				<latitude>41.19555101802993</latitude>
+				<altitude>0</altitude>
+				<heading>-3.67503629692076</heading>
+				<tilt>27.26401901052906</tilt>
+				<range>1376.372165190143</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin000</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>28.82658461427732,41.19634197006999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OHT ALANI 2 (GÜNEY)</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>28.88586400987229</longitude>
+				<latitude>41.23310484475778</latitude>
+				<altitude>0</altitude>
+				<heading>-3.672472666735051</heading>
+				<tilt>24.13449158816022</tilt>
+				<range>859.6476614803509</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin000</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>28.88535161346075,41.23392146830695,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OHT ALANI 2 (KUZEY)</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>28.90502479173322</longitude>
+				<latitude>41.23672876412587</latitude>
+				<altitude>0</altitude>
+				<heading>-3.612738290541599</heading>
+				<tilt>28.58754183976267</tilt>
+				<range>842.2098105236397</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin000</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>28.906808840852,41.23633916222605,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OHT ALANI 4 (GÜNEY)</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>29.2888089675856</longitude>
+				<latitude>41.1025976914845</latitude>
+				<altitude>0</altitude>
+				<heading>-3.377668407875479</heading>
+				<tilt>26.84335967307671</tilt>
+				<range>1787.689655688233</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin000</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>29.29016081627935,41.10192895589066,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OHT ALANI 4 (KUZEY)</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>29.28765851202687</longitude>
+				<latitude>41.09159753135715</latitude>
+				<altitude>0</altitude>
+				<heading>-3.378424328956278</heading>
+				<tilt>26.84307228999694</tilt>
+				<range>1754.170758038396</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin000</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>29.28726071745387,41.09031354226605,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ANA KONTROL MERKEZİ</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>29.1024822215841</longitude>
+				<latitude>41.20903068972217</latitude>
+				<altitude>0</altitude>
+				<heading>-3.452180347468453</heading>
+				<tilt>32.90648842939001</tilt>
+				<range>1197.519863926848</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_phone</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>29.10277472034364,41.20863062646289,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KÖPRÜ KORUMA BİRİMİ</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>29.12245077157972</longitude>
+				<latitude>41.19865208201667</latitude>
+				<altitude>0</altitude>
+				<heading>-3.372441133456876</heading>
+				<tilt>47.90684623734364</tilt>
+				<range>166.9783577265279</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ranger_station</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>29.12319995619466,41.19903211111221,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
