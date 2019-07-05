@@ -1,272 +1,253 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
-<Document>
-	<name>OHT - BAKIM MERKEZİ- İTFAİYE - TRAFİK - TUZ DEPOSU.kmz</name>
-	<visibility>0</visibility>
-	<open>1</open>
-	<StyleMap id="msn_caution0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_caution0</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_caution0</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="s_ylw-pushpin000">
-		<IconStyle>
-			<color>ff0000aa</color>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/gas_stations.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="s_ylw-pushpin_hl00">
-		<IconStyle>
-			<color>ff0000aa</color>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/gas_stations.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="m_ylw-pushpin000">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin000</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl00</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_phone">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/phone.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_phone">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_phone</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_phone</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ranger_station">
-		<IconStyle>
-			<color>fffc5656</color>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_ranger_station">
-		<IconStyle>
-			<color>fffc5656</color>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sn_caution0">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_caution0">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sn_phone">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/phone.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_ranger_station">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Folder>
-		<name>OHT - BAKIM MERKEZİ- İTFAİYE - TRAFİK - TUZ DEPOSU</name>
-		<visibility>0</visibility>
-		<Placemark>
-			<name>TEHLİKELİ ve KİMYASAL MADDE KONTROL</name>
-			<visibility>0</visibility>
-			<LookAt>
-				<longitude>28.98615726459851</longitude>
-				<latitude>41.22415701838433</latitude>
-				<altitude>0</altitude>
-				<heading>-2.58818466047729</heading>
-				<tilt>55.6457863176929</tilt>
-				<range>1377.575355300276</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_caution0</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>28.98615726459851,41.22415701838433,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>OHT ALANI 1</name>
-			<visibility>0</visibility>
-			<LookAt>
-				<longitude>28.83048055015639</longitude>
-				<latitude>41.19555101802993</latitude>
-				<altitude>0</altitude>
-				<heading>-3.67503629692076</heading>
-				<tilt>27.26401901052906</tilt>
-				<range>1376.372165190143</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin000</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>28.82658461427732,41.19634197006999,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>OHT ALANI 2 (GÜNEY)</name>
-			<visibility>0</visibility>
-			<LookAt>
-				<longitude>28.88586400987229</longitude>
-				<latitude>41.23310484475778</latitude>
-				<altitude>0</altitude>
-				<heading>-3.672472666735051</heading>
-				<tilt>24.13449158816022</tilt>
-				<range>859.6476614803509</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin000</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>28.88535161346075,41.23392146830695,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>OHT ALANI 2 (KUZEY)</name>
-			<visibility>0</visibility>
-			<LookAt>
-				<longitude>28.90502479173322</longitude>
-				<latitude>41.23672876412587</latitude>
-				<altitude>0</altitude>
-				<heading>-3.612738290541599</heading>
-				<tilt>28.58754183976267</tilt>
-				<range>842.2098105236397</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin000</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>28.906808840852,41.23633916222605,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>OHT ALANI 4 (GÜNEY)</name>
-			<visibility>0</visibility>
-			<LookAt>
-				<longitude>29.2888089675856</longitude>
-				<latitude>41.1025976914845</latitude>
-				<altitude>0</altitude>
-				<heading>-3.377668407875479</heading>
-				<tilt>26.84335967307671</tilt>
-				<range>1787.689655688233</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin000</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>29.29016081627935,41.10192895589066,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>OHT ALANI 4 (KUZEY)</name>
-			<visibility>0</visibility>
-			<LookAt>
-				<longitude>29.28765851202687</longitude>
-				<latitude>41.09159753135715</latitude>
-				<altitude>0</altitude>
-				<heading>-3.378424328956278</heading>
-				<tilt>26.84307228999694</tilt>
-				<range>1754.170758038396</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin000</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>29.28726071745387,41.09031354226605,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>ANA KONTROL MERKEZİ</name>
-			<visibility>0</visibility>
-			<LookAt>
-				<longitude>29.1024822215841</longitude>
-				<latitude>41.20903068972217</latitude>
-				<altitude>0</altitude>
-				<heading>-3.452180347468453</heading>
-				<tilt>32.90648842939001</tilt>
-				<range>1197.519863926848</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_phone</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>29.10277472034364,41.20863062646289,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>KÖPRÜ KORUMA BİRİMİ</name>
-			<visibility>0</visibility>
-			<LookAt>
-				<longitude>29.12245077157972</longitude>
-				<latitude>41.19865208201667</latitude>
-				<altitude>0</altitude>
-				<heading>-3.372441133456876</heading>
-				<tilt>47.90684623734364</tilt>
-				<range>166.9783577265279</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_ranger_station</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>29.12319995619466,41.19903211111221,0</coordinates>
-			</Point>
-		</Placemark>
-	</Folder>
-</Document>
-</kml>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>YSS_OTOYOL</name>
+  <Placemark>
+	<name>ASYA KİMYASAL</name>
+      <Point><coordinates>29.226089847974,41.1849789559251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AYTEMİZ OHT 1</name>
+	<description>&lt;img src=&quot;&quot;/&gt;</description>
+      <Point><coordinates>28.8279110216275,41.2022948278328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SHELL OHT1</name>
+      <Point><coordinates>28.8217962992215,41.1960309182717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SHELL</name>
+      <Point><coordinates>29.2844116617891,41.0818035267951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PETROL OFİSİ</name>
+      <Point><coordinates>29.2838920227619,41.0903112775351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AYTEMİZ</name>
+      <Point><coordinates>28.9063519518006,41.2360290326771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>K 14 FENERTEPE</name>
+      <Point><coordinates>28.8058195373914,41.1386190197623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KİLYOS KAVŞAĞI</name>
+      <Point><coordinates>29.0206738875278,41.225815879211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RİVA KAVŞAĞI</name>
+      <Point><coordinates>29.1944341178008,41.1905745223657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>S 1</name>
+      <Point><coordinates>28.814042465805,41.0688263555529</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>S 2</name>
+      <Point><coordinates>28.8158331538931,41.0755995451751</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>S 3 A</name>
+      <Point><coordinates>28.8137524880827,41.0872091243634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>S 3 B</name>
+      <Point><coordinates>28.8133009860455,41.0979585119366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>S 4</name>
+      <Point><coordinates>28.8145636343335,41.1097780089178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>S 5</name>
+      <Point><coordinates>28.806915772174,41.1274718802621</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>S 7</name>
+      <Point><coordinates>29.17110659432,41.0538059058527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RİVA TÜNEL</name>
+      <Point><coordinates>29.2762705647287,41.1466812612197</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÇAMLIK TÜNEL</name>
+      <Point><coordinates>29.1757126824903,41.055140615124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KÖPRÜ BYPASS</name>
+      <Point><coordinates>29.0921683769469,41.2128479931988</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ANADOLU BYPASS</name>
+      <Point><coordinates>29.12393784582,41.1980194602192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AVRUPA BYPASS</name>
+      <Point><coordinates>29.0998667623478,41.2080159623148</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KÖPRÜ BYPASS</name>
+      <Point><coordinates>29.1254086704775,41.1966535259559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POLİS KARAKOL</name>
+      <Point><coordinates>29.1213386433981,41.199102863914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GİŞE 1 FENERTEPE</name>
+      <Point><coordinates>28.8230352238814,41.1972253130651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GİŞE 2 IŞIKLAR</name>
+      <Point><coordinates>28.8331121873517,41.2111061427075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GİŞE 3 ODAYERİ</name>
+      <Point><coordinates>28.8460978955553,41.2411987323506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GİŞE 4 USKUMRUKÖY</name>
+      <Point><coordinates>29.0244536387392,41.2315721478585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GİŞE 5 RİVA</name>
+      <Point><coordinates>29.2026180306024,41.1940117267012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GİŞE 6 HÜSEYİNLİ</name>
+      <Point><coordinates>29.3121954444809,41.117286705207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GİŞE 7 REŞADİYE</name>
+      <Point><coordinates>29.2554744081441,41.045236397155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GİŞE 8 A ALEMDAĞ</name>
+      <Point><coordinates>29.2710512258825,41.0266028825163</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GİŞE 8 B ÖMERLİ</name>
+      <Point><coordinates>29.2631751808733,41.0296253192602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GİŞE 9 PAŞAKÖY</name>
+      <Point><coordinates>29.2774491425756,41.0074353674198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EKOLOJİK KÖPRÜ</name>
+      <Point><coordinates>29.0656208369332,41.2271002975762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EKSEN ŞANTİYESİ</name>
+      <Point><coordinates>28.8837657829094,41.2337355577697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AVRUPA KİMYASAL</name>
+      <Point><coordinates>28.9909099767798,41.2218459904868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VİYADÜK 5</name>
+      <Point><coordinates>28.8059415043143,41.1431017849818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VİYADÜK 6</name>
+      <Point><coordinates>28.808644629845,41.1659507986818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VİYADÜK 7</name>
+      <Point><coordinates>28.8198089090384,41.1845156497198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VİYADÜK 8</name>
+      <Point><coordinates>28.833344628175,41.2158679830361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VİYADÜK 9</name>
+      <Point><coordinates>28.8471813543978,41.2321506989451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VİYADÜK 10</name>
+      <Point><coordinates>28.9366473179472,41.2304009322144</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VİYADÜK 11</name>
+      <Point><coordinates>28.9451950690938,41.231223360075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VİYADÜK 12</name>
+      <Point><coordinates>28.9662804220046,41.2321706940509</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VİYADÜK 13</name>
+      <Point><coordinates>28.9710881710882,41.2306422900706</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VİYADÜK 15</name>
+      <Point><coordinates>29.0013508798374,41.2207481491146</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VİYADÜK 16</name>
+      <Point><coordinates>29.031808139398,41.2260683747169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VİYADÜK 17</name>
+      <Point><coordinates>29.0622754941367,41.2273843023586</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VİYADÜK 18</name>
+      <Point><coordinates>29.0737010073585,41.2257059177445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VİYADÜK 19</name>
+      <Point><coordinates>29.0839432522636,41.2190513611622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VİYADÜK 20</name>
+      <Point><coordinates>29.1379383381412,41.1975375390218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VİYADÜK 21</name>
+      <Point><coordinates>29.1477297032029,41.198397531562</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VİYADÜK 22</name>
+      <Point><coordinates>29.1613779372493,41.1979949143588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VİYADÜK 25</name>
+      <Point><coordinates>29.2592690020983,41.1615582261927</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VİYADÜK 26</name>
+      <Point><coordinates>29.2673615721505,41.1535709714263</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VİYADÜK 27</name>
+      <Point><coordinates>29.2840475826331,41.1408659720733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VİYADÜK 32</name>
+      <Point><coordinates>29.1286918855567,41.0493479736604</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VİYADÜK 33</name>
+      <Point><coordinates>29.1344573822764,41.0495447860496</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VİYADÜK 34</name>
+      <Point><coordinates>29.1409318251174,41.050092158971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VİYADÜK 35</name>
+      <Point><coordinates>29.1475088080327,41.0499354240649</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VİYADÜK 36</name>
+      <Point><coordinates>29.2243974721449,41.0442374594811</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
+
